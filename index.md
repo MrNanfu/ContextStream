@@ -78,7 +78,7 @@ methods using the developed benchmarks.
 <br><br> <!-- Adding two extra empty lines -->
 
 <div align="center">
-    <img src= "{{ site.baseurl }}/static/image/DiffF_arch_v4.png" alt="Hierarchical UCB" style="width: 150%; display: block; margin-left: auto; margin-right: auto;">
+    <img src= "{{ site.baseurl }}/static/image/DiffF_arch_v4.png" alt="Hierarchical UCB" style="width: 60%;">
     <p><em>Figure 2: Architectures of Differential Frame-Based Approach.</em></p>
 </div>
 
