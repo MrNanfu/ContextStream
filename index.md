@@ -71,23 +71,18 @@ methods using the developed benchmarks.
 
 ## Main Ideas
 <div align="center">
-    <img src= "{{ site.baseurl }}/static/image/two-level-architecture.png" alt="Hierarchical UCB" style="width: 60%;">
-    <p><em>Figure 1: Hierarchical service management framework with LLM-based multi-agent design.</em></p>
+    <img src= "{{ site.baseurl }}/static/image/DF_arch_v4.png" alt="Hierarchical UCB" style="width: 60%;">
+    <p><em>Figure 1: Architectures of Direct Frame-Based Approach.</em></p>
 </div>
 
 <br><br> <!-- Adding two extra empty lines -->
 
 <div align="center">
-    <img src= "{{ site.baseurl }}/static/image/framework-crop.png" alt="Hierarchical UCB" style="width: 150%; display: block; margin-left: auto; margin-right: auto;">
-    <p><em>Figure 2: Illustration of the Sock Shop example: Each microservice is converted into an LLM-based autonomic agent, managed by an autonomic layer comprising a Planner and Executor. The high-level group manager employs a Plan-Execute feedback mechanism to generate plans and assign sub-tasks to low-level autonomic agents. A decoupled message queue system serves as the middleware to manage communication, collecting feedback and unresolved issues.</em></p>
+    <img src= "{{ site.baseurl }}/static/image/DiffF_arch_v4.png" alt="Hierarchical UCB" style="width: 150%; display: block; margin-left: auto; margin-right: auto;">
+    <p><em>Figure 2: Architectures of Differential Frame-Based Approach.</em></p>
 </div>
 
 <br><br> <!-- Adding two extra empty lines -->
-
-<div align="center">
-    <img src= "{{ site.baseurl }}/static/image/k8s_acv_autonomous_level.png" alt="Hierarchical UCB" style="width: 150%; display: block; margin-left: auto; margin-right: auto;">
-    <p><em>Figure 3: Taxonomy of autonomous levels in service maintenance, focusing on Self-Healing and Self-Optimization.</em></p>
-</div>
 
 <!-- ## Table: Comparison of Computable and Non-Computable Numbers
 
@@ -104,13 +99,4 @@ Turing's paper laid the foundation for the theory of computation and had a profo
 
 ## Citation
 ```
-@misc{zhang2024visionautonomiccomputingllms,
-      title={The Vision of Autonomic Computing: Can LLMs Make It a Reality?}, 
-      author={Zhiyang Zhang and Fangkai Yang and Xiaoting Qin and Jue Zhang and Qingwei Lin and Gong Cheng and Dongmei Zhang and Saravan Rajmohan and Qi Zhang},
-      year={2024},
-      eprint={2407.14402},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2407.14402}, 
-}
 ```
