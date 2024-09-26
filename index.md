@@ -5,7 +5,7 @@ permalink: /
 title: "Sharingan: Extract User Action Sequence from Desktop Recordings"
 
 authors: |
-    Yanting Chen<sup>1</sup>*†, Yi Ren<sup>2</sup>*, Xiaoting Qin<sup>2</sup>, Jue Zhang<sup>2</sup>‡, Kehong Yuan<sup>1</sup>, Lu Han<sup>1</sup>, Qingwei Lin<sup>2</sup>, Dongmei Zhang<sup>2</sup>, Saravan Rajmohan<sup>2</sup>, Qi Zhang<sup>2</sup>
+    Yanting Chen<sup>1</sup>*†, Yi Ren<sup>2</sup>*, Xiaoting Qin<sup>2</sup>, Jue Zhang<sup>2</sup>‡, Kehong Yuan<sup>1</sup>, Lu Han<sup>2</sup>, Qingwei Lin<sup>2</sup>, Dongmei Zhang<sup>2</sup>, Saravan Rajmohan<sup>2</sup>, Qi Zhang<sup>2</sup>
 
 affiliations: |
     <sup>1</sup> Tsinghua University,<br>
