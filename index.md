@@ -71,6 +71,16 @@ and benchmarks will be made publicly available.
 3. We perform a comprehensive evaluation of the proposed
 methods using the developed benchmarks.
 
+## Overview
+<!-- Adding video -->
+<div align="center">
+    <video width="60%" controls>
+        <source src="{{ site.baseurl }}/static/video/sharingan_1080_h264.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <p><em>Video 1: Overall overview video.</em></p>
+</div>
+
 ## Main Ideas
 <div align="center">
     <img src= "{{ site.baseurl }}/static/image/DF_arch_v4.png" alt="Hierarchical UCB" style="width: 60%;">
@@ -86,14 +96,19 @@ methods using the developed benchmarks.
 
 <br><br> <!-- Adding two extra empty lines -->
 
-<!-- Adding video -->
+## Main Results
 <div align="center">
-    <video width="60%" controls>
-        <source src="{{ site.baseurl }}/static/video/sharingan_1080_h264.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-    <p><em>Video 1: Overall overview.</em></p>
+    <img src= "{{ site.baseurl }}/static/image/result_actone.png" alt="Hierarchical UCB" style="width: 60%;">
+    <p><em>Table 1: Evaluation results for the ACTONE dataset.</em></p>
 </div>
+
+<br><br>
+
+<div align="center">
+    <img src= "{{ site.baseurl }}/static/image/result_actreal.png" alt="Hierarchical UCB" style="width: 60%;">
+    <p><em>Table 2: valuation results for the ACTREAL dataset.</em></p>
+</div>
+
 
 <!-- ## Table: Comparison of Computable and Non-Computable Numbers
 
