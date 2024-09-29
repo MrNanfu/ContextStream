@@ -5,7 +5,7 @@ permalink: /
 title: "Sharingan: Extract User Action Sequence from Desktop Recordings"
 
 authors: |
-    Yanting Chen<sup>1</sup>*†, Yi Ren<sup>2</sup>*, Xiaoting Qin<sup>2</sup>, Jue Zhang<sup>2</sup>‡, Kehong Yuan<sup>1</sup>, Lu Han<sup>2</sup>, Qingwei Lin<sup>2</sup>, Dongmei Zhang<sup>2</sup>, Saravan Rajmohan<sup>2</sup>, Qi Zhang<sup>2</sup>
+    Yanting Chen<sup>1</sup>*†, Yi Ren<sup>2</sup>*, Xiaoting Qin<sup>2</sup>, Jue Zhang<sup>2</sup>‡, Kehong Yuan<sup>1</sup>, Lu Han<sup>2</sup>,<br> Qingwei Lin<sup>2</sup>, Dongmei Zhang<sup>2</sup>, Saravan Rajmohan<sup>2</sup>, Qi Zhang<sup>2</sup>
 
 affiliations: |
     <sup>1</sup> Tsinghua University,<br>
@@ -18,6 +18,8 @@ notes: |
 
 contact: |
     yetinchen0705@gmail.com   <br>
+    reny@microsoft.com   <br>
+    xiaotingqin@microsoft.com   <br>
     juezhang@microsoft.com
 
 paper: |
@@ -83,6 +85,15 @@ methods using the developed benchmarks.
 </div>
 
 <br><br> <!-- Adding two extra empty lines -->
+
+<!-- Adding video -->
+<div align="center">
+    <video width="60%" controls>
+        <source src="{{ site.baseurl }}/static/video/sharingan_1080_h264.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <p><em>Video 1: Overall overview.</em></p>
+</div>
 
 <!-- ## Table: Comparison of Computable and Non-Computable Numbers
 
